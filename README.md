@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/MOUHADDIBYASSMINE/test/_apis/build/status/sweetpotato872001.ContosoAir?branchName=master)](https://dev.azure.com/MOUHADDIBYASSMINE/test/_build/latest?definitionId=7&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
